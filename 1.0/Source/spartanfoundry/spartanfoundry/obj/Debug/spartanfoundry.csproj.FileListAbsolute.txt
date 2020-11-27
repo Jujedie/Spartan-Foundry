@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\rimworld-mods\spartanfoundry\SpartanFoundry\Source\spartanfoundry\spartanfoundry\obj\Debug\spartanfoundry.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\rimworld-mods\spartanfoundry\SpartanFoundry\Source\spartanfoundry\spartanfoundry\obj\Debug\spartanfoundry.csprojResolveAssemblyReference.cache

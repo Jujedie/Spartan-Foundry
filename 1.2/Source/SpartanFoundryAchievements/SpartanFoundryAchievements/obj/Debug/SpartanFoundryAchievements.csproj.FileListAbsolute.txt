@@ -1,0 +1,5 @@
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\Spartan Foundry\1.2\Assemblies\SpartanFoundryAchievements.dll
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\Spartan Foundry\1.2\Source\SpartanFoundryAchievements\SpartanFoundryAchievements\obj\Debug\SpartanFoundryAchievements.csprojAssemblyReference.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\Spartan Foundry\1.2\Source\SpartanFoundryAchievements\SpartanFoundryAchievements\obj\Debug\SpartanFoundryAchievements.csproj.CoreCompileInputs.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\Spartan Foundry\1.2\Source\SpartanFoundryAchievements\SpartanFoundryAchievements\obj\Debug\SpartanFoundryAchievements.csproj.CopyComplete
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\Spartan Foundry\1.2\Source\SpartanFoundryAchievements\SpartanFoundryAchievements\obj\Debug\SpartanFoundryAchievements.dll

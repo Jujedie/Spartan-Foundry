@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Vanilla Achievements Expanded</li>
+		</mods>
+
+		<match Class="PatchOperationSequence">
+			<operations>
+
+
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs</xpath>
+					<value>
+
+						
+					
+						
+						<AchievementsExpanded.AchievementDef >
+							<defName>Spartan_AchievementMultipleItems</defName>
+							<label>Much Powa</label>
+							<description>Get two powered assault and two engineer power armors</description>
+							
+							<tracker Class="AchievementsExpanded.ItemTrackerMultipleSpartanFoundry">
+								<thingList>
+								
+									<li>
+										<key>SF_PoweredAssaultArmor</key>
+										<value>2</value>
+									</li>
+									<li>
+										<key>SF_EngineerPowerArmor</key>
+										<value>2</value>
+									</li>
+									
+								</thingList>
+								
+							</tracker>
+
+							<texPath>Achievements/HumanLeatherHat</texPath>
+							<points>15</points>
+						</AchievementsExpanded.AchievementDef>
+						
+						<AchievementsExpanded.AchievementDef >
+							<defName>Spartan_AchievementMultipleItemsCrafted</defName>
+							<label>Much powa, two</label>
+							<description>Craft two powered assault and two engineer power armors</description>
+							
+							<tracker Class="AchievementsExpanded.ItemCraftTrackerMultipleSpartanFoundry">
+								<thingList>
+								
+									<li>
+										<key>SF_PoweredAssaultArmor</key>
+										<value>2</value>
+									</li>
+									<li>
+										<key>SF_EngineerPowerArmor</key>
+										<value>2</value>
+									</li>
+									
+								</thingList>
+								
+							</tracker>
+
+							<texPath>Achievements/HumanLeatherHat</texPath>
+							<points>15</points>
+						</AchievementsExpanded.AchievementDef>
+						
+						
+					</value>
+				</li>
+
+
+			</operations>
+		</match>
+	</Operation>
+
+
+</Patch>
+
